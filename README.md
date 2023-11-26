@@ -1,4 +1,5 @@
 ﻿# Unity Baldur's Gate 3 Style Dice Roller
+![image](https://github.com/adammyhre/Unity-Baldurs-Gate-Dice-Roller/assets/38876398/78fcb262-56ae-41f1-95f0-e1a4625b9107)
 
 Welcome to the Unity Baldur's Gate Style Dice Roller repository! This project showcases a simple implementation of a dice roller system, inspired by classic RPG mechanics as seen in Baldur's Gate 3. The repository contains scripts to integrate a functional dice roller in your Unity projects.
 
